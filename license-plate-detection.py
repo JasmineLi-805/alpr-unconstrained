@@ -1,6 +1,5 @@
 import sys, os
-import tensorflow
-import tensorflow.keras as keras
+import keras
 import cv2
 import traceback
 
